@@ -29,4 +29,3 @@ else
 		pointer[i] = c;
 		return (pointer);
 }
-}
